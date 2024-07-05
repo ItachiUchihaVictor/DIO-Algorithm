@@ -8,7 +8,7 @@ The project provides the implementation of the  “On Efficient Shortest Path Co
 
 # How to Compile and Run the Code 
 
-g++ -o main main_dist.cpp -std=c++11
+g++ -o main main.cpp -std=c++11
 
 ./main small_terrain.off
 
